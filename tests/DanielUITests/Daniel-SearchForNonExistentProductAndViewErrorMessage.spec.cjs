@@ -1,8 +1,8 @@
 const { test, expect } = require('@playwright/test');
 
 const websiteUrl = 'http://localhost:3000/';
-const userEmail = 'admin@admin.com';
-const userPassword = 'admin';
+const userEmail = 'Daniel@gmail.com';
+const userPassword = 'Daniel';
 const searchItem = 'this is not a real object';
 const noSearchResultsMessage = "No Products Found";
 

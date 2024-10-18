@@ -1,8 +1,8 @@
 const { test, expect } = require('@playwright/test');
 
 const websiteUrl = 'http://localhost:3000/';
-const userEmail = 'admin@admin.com';
-const userPassword = 'admin';
+const userEmail = 'Daniel@gmail.com';
+const userPassword = 'Daniel';
 const searchItem = 'jeans';
 const JEANS_PRODUCT_OBJECT = {
     _id: "66db4280db0119d9234b27fb",
