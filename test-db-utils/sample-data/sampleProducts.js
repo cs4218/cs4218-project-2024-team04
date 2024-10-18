@@ -1,4 +1,4 @@
-const products = [
+ const products = [
     {
       name: 'Smartphone',
       slug: 'smartphone',
@@ -6,7 +6,7 @@ const products = [
       price: 999.99,
       quantity: 50,
       shipping: true,
-      category: 'Electronics',
+      category: 'electronics',
     },
     {
       name: 'Laptop',
@@ -15,7 +15,7 @@ const products = [
       price: 1499.99,
       quantity: 30,
       shipping: true,
-      category: 'Electronics',
+      category: 'electronics',
     },
     {
       name: 'T-shirt',
@@ -24,7 +24,7 @@ const products = [
       price: 19.99,
       quantity: 100,
       shipping: true,
-      category: 'Clothing',
+      category: 'clothing',
     },
     {
       name: 'Jeans',
@@ -33,7 +33,7 @@ const products = [
       price: 49.99,
       quantity: 75,
       shipping: true,
-      category: 'Clothing',
+      category: 'clothing',
     },
     {
       name: 'Bestselling Novel',
@@ -42,7 +42,7 @@ const products = [
       price: 14.99,
       quantity: 200,
       shipping: true,
-      category: 'Books',
+      category: 'book',
     },
   ];
 
